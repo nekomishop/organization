@@ -110,18 +110,21 @@
           },
           "logo": {
             "image": {
-              "src": "@THEME_PATH@/components/_images/logo.png",
+              "src": "file:///D:/Mobirise4/resources/app.asar/web/app/builder/../../app/themes/mobirise3/components/_images/logo.png",
               "height": 128,
               "alt": "Mobirise",
-              "link": "https://mobirise.com"
+              "link": "#top",
+              "title": "",
+              "linkInNewWindow": false
             },
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-menu",
               "linkInNewWindow": false,
               "name": "desktop",
               "family": "MobiriseIcons",
-              "link": "https://mobirise.com",
+              "link": "shop.html#header1-1",
               "size": 0,
+              "newWindow": false,
               "active": true
             }
           },
