@@ -23,7 +23,7 @@
       "additionalSetColors": []
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 15,
+    "uniqCompNum": 21,
     "versionPublish": "4.4.1"
   },
   "pages": {
@@ -129,7 +129,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"shop.html#header1-1\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Game Shop</a>",
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\"><span class=\"mbri-search mbr-iconfont mbr-iconfont-btn\"></span>Помощь</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"shop.html#features6-0\"><span class=\"mbri-cursor-click mbr-iconfont mbr-iconfont-btn\"></span>Почему именно мы?</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"shop.html#features3-c\"><span class=\"mbri-cursor-click mbr-iconfont mbr-iconfont-btn\"></span>Почему нам можно доверять?</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\"><span class=\"mbri-cursor-click mbr-iconfont mbr-iconfont-btn\"></span>Пользовательское соглашение</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">Связь с администрацией</a></li>"
+          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\"><span class=\"mbri-search mbr-iconfont mbr-iconfont-btn\"></span>Помощь</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"shop.html#features6-0\"><span class=\"mbri-cursor-click mbr-iconfont mbr-iconfont-btn\"></span>Почему именно мы?</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"shop.html#features3-c\"><span class=\"mbri-cursor-click mbr-iconfont mbr-iconfont-btn\"></span>Почему нам можно доверять?</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\"><span class=\"mbri-cursor-click mbr-iconfont mbr-iconfont-btn\"></span>Пользовательское соглашение</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">Связь с администрацией</a></li>"
         },
         {
           "_name": "header1",
@@ -147,7 +147,7 @@
             "showArrow": true,
             "contentAlign": "center",
             "bgImageRadio": true,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/grw-gamescom-screenshot-1920x1080-h-283825-1920x1080.jpg",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#a07e49",
@@ -161,7 +161,7 @@
           },
           "title": "<i>Nekomi shop</i>",
           "text": "",
-          "buttons": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"shop.html#features3-6\" data-toolbar=\"-mbrBtnMove\">WELCOME TO THE SHOP<br>(CLICK)<br></a>"
+          "buttons": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"shop.html#features3-6\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-cart-add mbr-iconfont mbr-iconfont-btn\"></span>WELCOME TO THE SHOP<br></a>"
         },
         {
           "_styles": {
@@ -181,7 +181,7 @@
             "paddingTop": 3,
             "paddingBottom": 3,
             "bgImageRadio": true,
-            "bgImage": "@THEME_PATH@/components/_images/desert.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/5-1920x1080.jpg",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#F2F2F2",
@@ -337,7 +337,7 @@
             "paddingTop": 3,
             "paddingBottom": 3,
             "bgImageRadio": true,
-            "bgImage": "@THEME_PATH@/components/_images/desert.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/2-1920x1080.jpg",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#F2F2F2",
@@ -393,9 +393,9 @@
             }
           },
           "title1": "PUBG",
-          "subtitle1": "<b>STEAM KEY</b>",
+          "subtitle1": "STEAM KEY",
           "caption1": "<i><b>Жанры: Приключения, Экшен\n<br>\n<br>Язык: Русский присутствует\n<br>\n<br>Дата выхода: 23 марта 2017\n<br>\n<br>Издатель: Bluehole, Inc.</b></i>",
-          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-shopping-bag mbr-iconfont mbr-iconfont-btn\"></span>BUY</a>",
+          "button1": "<a data-app-btn=\"true\" href=\"https://wollmark.net/item/playerunknown-s-battlegrounds/697\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-shopping-bag mbr-iconfont mbr-iconfont-btn\"></span>840 РУБ</a>",
           "media2": {
             "image": {
               "src": "@PROJECT_PATH@/assets/images/1c173b1cddc38f75937c27c27c63624c-460x215.jpg",
@@ -408,9 +408,9 @@
             }
           },
           "title2": "ARMA |||",
-          "subtitle2": "<b>STEAM ACCAUNT</b>",
+          "subtitle2": "STEAM ACCAUNT",
           "caption2": "<b><i>Жанры: Онлайн, Симуляторы, Экшен\n<br>\n<br>Язык: Русский присутствует\n<br>\n<br>Дата выхода: 12 сентября 2013\n<br>\n<br>Издатель: Bohemia Interactive</i></b>",
-          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-shopping-bag mbr-iconfont mbr-iconfont-btn\"></span>BUY</a>",
+          "button2": "<a data-app-btn=\"true\" href=\"https://wollmark.net/item/arma-iii/698\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-shopping-bag mbr-iconfont mbr-iconfont-btn\"></span>500 РУБ</a>",
           "media3": {
             "image": {
               "src": "@PROJECT_PATH@/assets/images/d0abf0cbb59ce17ce3e1164cfbc00631-460x215.jpg",
@@ -423,9 +423,9 @@
             }
           },
           "title3": "GTA 5",
-          "subtitle3": "<b>SOCIAL CLUB</b>",
+          "subtitle3": "SOCIAL CLUB",
           "caption3": "<b><i>Жанры: Приключения, Экшен\n<br>\n<br>Язык: Русский присутствует\n<br>\n<br>Дата выхода: 14 апреля 2015\n<br>\n<br>Издатель: Rockstar Games</i></b>",
-          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-shopping-bag mbr-iconfont mbr-iconfont-btn\"></span>BUY</a> ",
+          "button3": "<a data-app-btn=\"true\" href=\"https://wollmark.net/item/gta-5/699\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-shopping-bag mbr-iconfont mbr-iconfont-btn\"></span>480 РУБ</a> ",
           "media4": {
             "image": {
               "src": "@PROJECT_PATH@/assets/images/22619c4efb9a303449f732723bb6bfd2-460x215.jpg",
@@ -438,9 +438,9 @@
             }
           },
           "title4": "DISHONORED 2",
-          "subtitle4": "<b>STEAM KEY</b>",
+          "subtitle4": "STEAM KEY",
           "caption4": "<i><b>Жанры: Экшен\n</b></i><br><i><b><br>Язык: Русский присутствует\n<br>\n<br>Дата выхода: 11 ноября 2016\n<br>\n<br>Издатель: Bethesda Softworks</b></i>",
-          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-shopping-bag mbr-iconfont mbr-iconfont-btn\"></span>BUY</a>",
+          "button4": "<a data-app-btn=\"true\" href=\"https://wollmark.net/item/dishonored-2/700\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-shopping-bag mbr-iconfont mbr-iconfont-btn\"></span>500 РУБ</a>",
           "media5": {
             "image": {
               "src": "@THEME_PATH@/components/_images/gallery/windows-books.jpg",
@@ -513,7 +513,7 @@
           "title1": "<i>COUNTER-STRIKE GLOBAL OFFENSIVE</i>",
           "subtitle1": "<b>Steam KEY/ACCAUNT</b>",
           "caption1": "<b><i>Жанры: Экшен\n<br>\n<br>Язык: Русский присутствует\n<br>\n<br>Дата выхода: 21 августа 2012\n<br>\n<br>Издатель: Valve</i></b>",
-          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-shopping-bag mbr-iconfont mbr-iconfont-btn\"></span>BUY</a>",
+          "button1": "<a data-app-btn=\"true\" href=\"https://wollmark.net/item/counter-strike-global-offensive/701\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-shopping-bag mbr-iconfont mbr-iconfont-btn\"></span>350 РУБ</a>",
           "media2": {
             "image": {
               "src": "@PROJECT_PATH@/assets/images/a882611753a3c33b11b37e16ac8d9b7e-460x215.jpg",
@@ -528,7 +528,7 @@
           "title2": "<i>DOOM</i>",
           "subtitle2": "<b>STEAM KEY/GIFT</b>",
           "caption2": "<i><b>Жанры: Экшен\n<br>\n<br>Язык: Русский присутствует\n<br>\n<br>Дата выхода: 13 мая 2016\n<br>\n<br>Издатель: Bethesda Softworks</b></i>",
-          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-shopping-bag mbr-iconfont mbr-iconfont-btn\"></span>BUY</a>",
+          "button2": "<a data-app-btn=\"true\" href=\"https://wollmark.net/item/d-o-o-m/702\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-shopping-bag mbr-iconfont mbr-iconfont-btn\"></span>250 РУБ</a>",
           "media3": {
             "image": {
               "src": "@PROJECT_PATH@/assets/images/c1a96080209be9dfeb7ee8a2b7e3d513-460x215.jpg",
@@ -543,7 +543,7 @@
           "title3": "<i>FALLOUT</i>",
           "subtitle3": "<b>STEAM KEY/GIFT</b>",
           "caption3": "<i><b>Жанры: Ролевые\n<br>\n<br>Язык: Русский присутствует\n<br>\n<br>Дата выхода: 10 ноября 2015\n<br>\n<br>Издатель: Bethesda Softworks</b></i>",
-          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-shopping-bag mbr-iconfont mbr-iconfont-btn\"></span>BUY</a>",
+          "button3": "<a data-app-btn=\"true\" href=\"https://wollmark.net/item/fallout/703\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-shopping-bag mbr-iconfont mbr-iconfont-btn\"></span>450 РУБ</a> ",
           "media4": {
             "image": {
               "src": "@PROJECT_PATH@/assets/images/418b07db5e3fc14d8062c9bebee5afb1-460x215.jpg",
@@ -558,7 +558,7 @@
           "title4": "<i>THE FOREST</i>",
           "subtitle4": "<b>STEAM KEY/GIFT</b>",
           "caption4": "<i><b>Жанры: Инди, Приключения, Симуляторы, Экшен\n<br>\n<br>Язык: Русский присутствует\n<br>\n<br>Дата выхода: 30 мая 2014\n<br>\n<br>Издатель: Endnight Games Ltd</b></i>",
-          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-shopping-bag mbr-iconfont mbr-iconfont-btn\"></span>BUY</a>",
+          "button4": "<a data-app-btn=\"true\" href=\"https://wollmark.net/item/the-forest/704\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-shopping-bag mbr-iconfont mbr-iconfont-btn\"></span>420 РУБ</a>",
           "media5": {
             "image": {
               "src": "@THEME_PATH@/components/_images/gallery/windows-books.jpg",
@@ -623,10 +623,10 @@
               "title": ""
             }
           },
-          "title1": "<i>RISE OF THE TOM RIDER</i>",
+          "title1": "<i>RISE OF THE TOMB RIDER</i>",
           "subtitle1": "<b>STEAM KEY/GIFT</b>",
           "caption1": "<i><b>Жанры: Приключения, Экшен\n<br>\n<br>Язык: Русский присутствует\n<br>\n<br>Дата выхода: 09 февраля 2016\n<br>\n<br>Издатель: Square Enix</b></i>",
-          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-shopping-bag mbr-iconfont mbr-iconfont-btn\"></span>BUY</a>",
+          "button1": "<a data-app-btn=\"true\" href=\"https://wollmark.net/item/rise-of-the-tomb-rider/705\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-shopping-bag mbr-iconfont mbr-iconfont-btn\"></span>830 РУБ</a>",
           "media2": {
             "image": {
               "src": "@PROJECT_PATH@/assets/images/42d990a543dd1b71e891212c2d124bf7-460x215.jpg",
@@ -641,7 +641,7 @@
           "title2": "RUST",
           "subtitle2": "<b>STEAM KEY/GIFT</b>",
           "caption2": "<b><i>Жанры: Инди, Приключения, Ролевые, Экшен\n<br>\n<br>Язык: Русский присутствует\n<br>\n<br>Дата выхода: 11 декабря 2013\n<br>\n<br>Издатель: Facepunch Studios\n&nbsp;</i></b>",
-          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-shopping-bag mbr-iconfont mbr-iconfont-btn\"></span>BUY</a>  ",
+          "button2": "<a data-app-btn=\"true\" href=\"https://wollmark.net/item/r-u-s-t/706\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-shopping-bag mbr-iconfont mbr-iconfont-btn\"></span>250 РУБ</a>  ",
           "media3": {
             "image": {
               "src": "@PROJECT_PATH@/assets/images/86454b5fe45c831b66c1433be34245c1-460x215.jpg",
@@ -656,7 +656,7 @@
           "title3": "MOVE OR DIE",
           "subtitle3": "<b>STEAM KEY/GIFT</b>",
           "caption3": "<i><b>Жанры: Инди, Экшен\n<br>\n<br>Язык: Русский присутствует\n<br>\n<br>Дата выхода: 21 января 2016\n<br>\n<br>Издатель: Those Awesome Guys</b></i>",
-          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-shopping-bag mbr-iconfont mbr-iconfont-btn\"></span>BUY</a>",
+          "button3": "<a data-app-btn=\"true\" href=\"https://wollmark.net/item/move-or-die/707\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-shopping-bag mbr-iconfont mbr-iconfont-btn\"></span>250 РУБ</a>",
           "media4": {
             "image": {
               "src": "@PROJECT_PATH@/assets/images/a9ad1727799c048c2ae06c79c21da64e-460x215.jpg",
@@ -671,7 +671,7 @@
           "title4": "OUTLAST",
           "subtitle4": "<b>STEAM KEY/GIFT</b>",
           "caption4": "<i><b>Жанры: Инди, Приключения, Экшен\n<br>\n<br>Язык: Русский присутствует\n<br>\n<br>Дата выхода: 04 сентября 2013\n<br>\n<br>Издатель: Red Barrels</b></i>",
-          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-shopping-bag mbr-iconfont mbr-iconfont-btn\"></span>BUY</a>",
+          "button4": "<a data-app-btn=\"true\" href=\"https://wollmark.net/item/outlast/708\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-shopping-bag mbr-iconfont mbr-iconfont-btn\"></span>350 РУБ</a>",
           "media5": {
             "image": {
               "src": "@THEME_PATH@/components/_images/gallery/windows-books.jpg",
@@ -715,7 +715,7 @@
             "paddingTop": 3,
             "paddingBottom": 3,
             "bgImageRadio": true,
-            "bgImage": "@THEME_PATH@/components/_images/desert.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/1-1920x1080.jpg",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#F2F2F2",
@@ -850,7 +850,7 @@
             "paddingTop": 3,
             "paddingBottom": 3,
             "bgImageRadio": true,
-            "bgImage": "@THEME_PATH@/components/_images/desert.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/grw-gamescom-screenshot-1920x1080-h-283825-1920x1080.jpg",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#F2F2F2",
@@ -954,29 +954,48 @@
         },
         {
           "_styles": {
-            ".mbr-section-title, .btn-social": {
-              "color": "#232323"
+            ".mbr-section-title": {
+              "color": "#fff",
+              "font-size": "36px"
+            },
+            ".mbr-section-subtitle": {
+              "color": "#a0a0a0"
+            }
+          },
+          "_params": {
+            "showTitle": true,
+            "showSubTitle": false,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#2e2e2e",
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "Подписка на наши новости",
+          "subtitle": "Subscribe to our Newsletter",
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\"><span class=\"mbri-success mbr-iconfont mbr-iconfont-btn\"></span>Подписаться</a>",
+          "form": {
+            "action": "nekomi@mail.ua",
+            "alerts": {
+              "success": "Спасибо за подписку"
+            },
+            "fields": {
+              "email": {
+                "title": "Email",
+                "customTitle": "Enter Your Email Address..."
+              }
             }
           },
           "_tags": [
             "Theme"
           ],
-          "_name": "social-buttons2",
-          "_anchor": "social-buttons2-5",
-          "_params": {
-            "paddingTop": 3,
-            "paddingBottom": 3,
-            "bgImageRadio": true,
-            "bgImage": "@THEME_PATH@/components/_images/landscape3.jpg",
-            "parallax": true,
-            "bgColorRadio": false,
-            "bgColor": "#fff",
-            "overlay": false,
-            "overlayColor": "#222",
-            "overlayOpacity": 0.5
-          },
-          "text": "FOLLOW US",
-          "icons": " <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Facebook\" target=\"_blank\" href=\"https://www.facebook.com/pages/Mobirise/1616226671953247\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><span class=\"socicon socicon-vkontakte mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 30px;\"></span></a>  <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"YouTube\" target=\"_blank\" href=\"https://www.youtube.com/channel/UCt_tncVAetpK5JeM8L-8jyw\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><span class=\"socicon socicon-twitch mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 25px;\"></span></a>     <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"VKontakte\" target=\"_blank\" href=\"#\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><span class=\"socicon socicon-steam mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 30px;\"></span></a>  "
+          "_name": "form2",
+          "_anchor": "form2-k"
         },
         {
           "_name": "footer1",
@@ -994,13 +1013,132 @@
             "overlayOpacity": 0.8
           },
           "text": "Copyright (c) 2013 OOO Nekomi's shop"
+        }
+      ]
+    },
+    "page1.html": {
+      "settings": {
+        "meta_descr": "Web Page Creator Description",
+        "title": "Page 1",
+        "order": 1
+      },
+      "components": [
+        {
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff"
+            },
+            ".navbar-toggler": {
+              "color": "#ffffff"
+            },
+            ".link, .dropdown-item": {
+              "color": "#ffffff"
+            },
+            ".link": {
+              "font-size": "0.95rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "1.029rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#0e0e0e"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#202020!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#282828"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#ffffff",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#c0a375!important"
+            },
+            "&.mbr-navbar--stuck .mbr-navbar__section": {
+              "background": "#2c2c2c"
+            },
+            ".mbr-navbar__section": {},
+            ".mbr-navbar__hamburger": {
+              "color": "#ffffff"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#ffffff"
+            }
+          },
+          "_name": "menu",
+          "_params": {
+            "logo": true,
+            "showBrand": true,
+            "hideButtons": false,
+            "sticky": true,
+            "collapsed": true,
+            "transparent": true,
+            "bgColor": "#282828",
+            "fontSize": "0.95",
+            "fontName": {},
+            "fontColor": "#ffffff",
+            "fontHoverColor": "@primaryColor"
+          },
+          "logo": {
+            "image": {
+              "src": "file:///D:/Mobirise4/resources/app.asar/web/app/builder/../../app/themes/mobirise3/components/_images/logo.png",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "#top",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "linkInNewWindow": false,
+              "name": "desktop",
+              "family": "MobiriseIcons",
+              "link": "shop.html#header1-1",
+              "size": 0,
+              "newWindow": false,
+              "active": true
+            }
+          },
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"shop.html#header1-1\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Game Shop</a>",
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\"><span class=\"mbri-search mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(193, 193, 193);\"></span>Помощь</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"shop.html#features6-0\"><span class=\"mbri-cursor-click mbr-iconfont mbr-iconfont-btn\"></span>Почему именно мы?</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"shop.html#features3-c\"><span class=\"mbri-cursor-click mbr-iconfont mbr-iconfont-btn\"></span>Почему нам можно доверять?</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\"><span class=\"mbri-cursor-click mbr-iconfont mbr-iconfont-btn\"></span>Пользовательское соглашение</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">Связь с администрацией</a></li>",
+          "_anchor": "menu-f"
+        },
+        {
+          "_name": "footer1",
+          "_params": {
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#323232",
+            "overlay": true,
+            "overlayColor": "#444444",
+            "overlayOpacity": 0.8
+          },
+          "text": "Copyright (c) 2013 OOO Nekomi's shop",
+          "_anchor": "footer1-g"
         },
         {
           "_tags": [
             "Theme"
           ],
           "_name": "contacts1",
-          "_anchor": "contacts1-8",
           "_params": {
             "paddingTop": 3,
             "paddingBottom": "4",
@@ -1030,7 +1168,8 @@
           },
           "text1": "",
           "text2": "<strong>Contacts</strong><br>\nEmail: nekomi@mail.ua<br><br>",
-          "text3": "<strong>Links</strong><br>\n<a class=\"text-primary\" href=\"https://mobirise.com/\">v</a>k.com<br>\n<a class=\"text-primary\" href=\"https://mobirise.com/mobirise-free-win.zip\">t</a>witch<br>\n<a class=\"text-primary\" href=\"https://mobirise.com/mobirise-free-mac.zip\">s</a>team"
+          "text3": "<strong>Links</strong><br>\n<a class=\"text-primary\" href=\"https://mobirise.com/\">v</a>k.com<br>\n<a class=\"text-primary\" href=\"https://mobirise.com/mobirise-free-win.zip\">t</a>witch<br>\n<a class=\"text-primary\" href=\"https://mobirise.com/mobirise-free-mac.zip\">s</a>team",
+          "_anchor": "contacts1-h"
         }
       ]
     }
