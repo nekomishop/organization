@@ -110,12 +110,11 @@
           },
           "logo": {
             "image": {
-              "src": "file:///D:/Mobirise4/resources/app.asar/web/app/builder/../../app/themes/mobirise3/components/_images/logo.png",
+              "src": "@PROJECT_PATH@/assets/images/41+i8-tjmil-128x128.png",
               "height": 128,
               "alt": "Mobirise",
               "link": "#top",
-              "title": "",
-              "linkInNewWindow": false
+              "title": ""
             },
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-menu",
@@ -1095,7 +1094,7 @@
           },
           "logo": {
             "image": {
-              "src": "file:///D:/Mobirise4/resources/app.asar/web/app/builder/../../app/themes/mobirise3/components/_images/logo.png",
+              "src": "@PROJECT_PATH@/assets/images/41+i8-tjmil-128x128.png",
               "height": 128,
               "alt": "Mobirise",
               "link": "#top",
