@@ -1412,7 +1412,7 @@
               "color": "#fff"
             },
             ".mbr-section-title I": {
-              "color": "#faaf40"
+              "color": "#ffffff"
             }
           },
           "_params": {
@@ -1653,7 +1653,7 @@
         {
           "_params": {
             "showImages": true,
-            "showTitles": true,
+            "showTitles": false,
             "showSubtitles": false,
             "ShowTexts": false,
             "showButtons": false,
