@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "shop.html",
+    "currentPage": "page2.html",
     "name": "My Site",
     "theme": {
       "name": "mobirise3",
@@ -1410,6 +1410,9 @@
           "_styles": {
             ".mbr-section-title, p": {
               "color": "#fff"
+            },
+            ".mbr-section-title I": {
+              "color": "#faaf40"
             }
           },
           "_params": {
@@ -1431,7 +1434,7 @@
             "overlayColor": "#222",
             "overlayOpacity": 0.5
           },
-          "title": "KEYS/GIFTS",
+          "title": "<i>KEYS/GIFTS</i>",
           "text": "<p>Article header with background image and parallax effect.</p>",
           "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>",
           "_tags": [

@@ -599,6 +599,9 @@ h6,
 #msg-box8-r p {
   color: #fff;
 }
+#msg-box8-r .mbr-section-title I {
+  color: #faaf40;
+}
 #menu-p .hide-buttons .nav-btn {
   display: none !important;
 }
