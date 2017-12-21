@@ -1747,11 +1747,6 @@ body {
 .cid-qEmlIneVvb {
   background-image: url("../../../assets/images/grw-gamescom-screenshot-1920x1080-h-283825-1920x1080.jpg");
 }
-.cid-qEmyixdNIo {
-  padding-top: 60px;
-  padding-bottom: 60px;
-  background-image: url("../../../assets/images/1-1920x1080.jpg");
-}
 .cid-qEmwRButCX {
   padding-top: 120px;
   padding-bottom: 120px;
@@ -1989,6 +1984,45 @@ body {
 }
 .cid-qEmxxov9rP .mbr-text B {
   color: #ff3366;
+}
+.cid-qEsHkAHIg3 {
+  padding-top: 60px;
+  padding-bottom: 60px;
+  background-image: url("../../../assets/images/5-1920x1080.jpg");
+}
+.cid-qEsGWMTtWK {
+  padding-top: 90px;
+  padding-bottom: 90px;
+  background-color: #fafafa;
+}
+.cid-qEsGWMTtWK h3 {
+  text-align: center;
+  font-weight: 300;
+}
+.cid-qEsGWMTtWK .wrap {
+  width: 150px;
+  height: 150px;
+  margin: 0 auto;
+}
+.cid-qEsGWMTtWK .mbr-section-subtitle {
+  color: #767676;
+}
+.cid-qEsGWMTtWK .card {
+  -webkit-flex-basis: 100%;
+  flex-basis: 100%;
+  word-wrap: break-word;
+}
+.cid-qEsGWMTtWK ellipse {
+  stroke: rgba(206, 206, 206, 0.4);
+}
+.cid-qEsGWMTtWK path {
+  stroke: #149dcc;
+}
+@media (max-width: 991px) and (min-width: 768px) {
+  .cid-qEsGWMTtWK .card {
+    -webkit-flex-basis: 33%;
+    flex-basis: 33%;
+  }
 }
 .cid-qEn7y7Awto {
   padding-top: 90px;
